@@ -1,0 +1,107 @@
+#header{
+    padding:25px 0 20px 40px;
+}
+#buttons{
+    margin-left:520px;
+    margin-top:-85px;
+}
+#header-section{
+    background-image:url(images/astronout.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    width:1500px;
+    height:640px;
+    margin-top:-23px;
+    margin-left: -10px;
+    color:#fff;
+    font-family: sans-serif;
+}
+.flex{
+    display: flex;
+display: inline-block;
+font-size: 20px;
+}
+.transparent{
+    color:transparent;
+}
+#margin-icon{
+    margin-left: 1270px;
+    margin-top: -40px;
+    font-size:25px;
+}
+#werockets{
+    width: 400px;
+    line-height: 1.5;
+    font-size:45px;
+    margin-top:90px;
+    margin-left: 200px;
+    font-weight: bold;
+}
+#text{
+    width:350px;
+    margin-left:200px;
+    margin-top:-20px;
+}
+#learn-more{
+    position: absolute;
+    border: 2px solid #fff;
+    background-color: transparent;
+    height: 40px;
+    width: 150px;
+    color: #fff;
+    margin-left:200px;
+}
+#about-us{
+    text-align:center;
+    padding: 30px;
+    font-size:40px;
+    font-family:sans-serif;
+}
+#best{
+    text-align:center;
+    font-family: sans-serif;
+    width:300px;
+    line-height: 1.5;
+    margin-left: 510px;
+    margin-top:-20px;
+}
+#mars{
+    position:absolute;
+    margin-top:20px;
+    margin-left:100px;
+}
+#astronout{
+    margin-left:900px;
+    margin-top: -240px;
+}
+#mission-and-vision{
+    text-align: center;
+    color:#fff;
+    background-image:url(images/space.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    width:1350px;
+    margin-left:-10px;
+}
+#mission{
+    padding:30px;
+    font-size:40px;
+    font-family:sans-serif;
+}
+#vision{
+    width:300px;
+    line-height:1.5;
+    font-size:15px;
+    font-family: sans-serif;
+    margin-left:520px;
+    padding-bottom: 30px;
+}
+#footer{
+    padding: 5% 15%;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.social-icon{
+    margin: 20px 10px;
+}
